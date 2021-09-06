@@ -8,6 +8,7 @@ Any questions, just send e-mails to zzlynx@outlook.com (Longyin Zhang).
 
 #### DTC Corpus
 We annotated the data in a traditional way, that is, reading the paper WSJ news and manually labeling it on the news paper. The paper-style data contains some details of the thinking process, such as the notes of **TO** and **TE**, omission recovery, reference prompt, etc.
+
 ![image](https://github.com/NLP-Discourse-SoochowU/DTCP/blob/main/data/corpus/papers.jpg)
 
 In this published corpus, we only present the annotation of DTC chains, and we'll provide a more complete version in the future. 
