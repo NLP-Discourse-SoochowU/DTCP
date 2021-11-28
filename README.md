@@ -3,27 +3,29 @@
 In this project, we publish a new corpus with discourse-level topic chains annotated on the 385 WSJ news articles
 in RST-DT. For details, please refer to our paper: "Longyin Zhang, Xin Tan, Fang Kong and Guodong Zhou. **EDTC: A Corpus for Discourse-Level Topic Chain Parsing**. EMNLP2021-Findings."
 
-Any questions, just send e-mails to zzlynx@outlook.com (Longyin Zhang).
+Any questions, send e-mails to zzlynx@outlook.com (Longyin Zhang).
 
 
 #### DTC Corpus
-We annotated the data in a traditional way, that is, reading the paper WSJ news and manually labeling it on the news paper.
+We annotated the data in a traditional way: reading the paper WSJ news and manually labeling it on the news paper.
 
 ![image](https://github.com/NLP-Discourse-SoochowU/DTCP/blob/main/data/corpus/papers.jpg)
 
-In this published corpus, we only present the annotation of DTC chains, and we'll provide a more informative version in the future. 
+In this published corpus, we only present the annotation of DTC chains, and we will provide a more informative version in the future. 
 
 #### DTC Parser
 
-1. The python environment is detailed in the txt file "env.txt".
+1. We provide our newest parser in "upd_parser" where we present the codes and the pre-trained DTC parsing model for downstream applications. 
 
-2. Run the following command to train and save your own parser:
+2. Some data is too big, and we failed to upload it to Github, the "data" package can be downloaded at xxx, and the passcode is xxx. You need to download the "stanfordcorenlp" by yourself. 
+
+3. Run the following command to train and save your parser:
    ```
        python main.py
    ```
-   For topic chain evaluation:
+   Run the following command to evaluate topic chains:
    ```
-       python eval_chain.py
+       python eval.py
    ```
 
 <b>-- License</b>
