@@ -17,7 +17,7 @@ In this published corpus, we only present the annotation of DTC chains, and we w
 
 1. We provide our newest parser in "upd_parser" where we present the codes and the pre-trained DTC parsing model for downstream applications. 
 
-2. Some data is too big, and we failed to upload it to Github, the "data" package can be downloaded at xxx, and the passcode is xxx. You need to download the "stanfordcorenlp" by yourself. 
+2. Some data is too big, and we failed to upload it to Github, the "data" package can be downloaded at https://pan.baidu.com/s/16AvxxNwgFLo6PPBTp9VXqA, and the passcode is lynx. You need to download the "stanfordcorenlp" by yourself. 
 
 3. Run the following command to train and save your parser:
    ```
