@@ -10,10 +10,7 @@ Our latest research found that due to the size of the corpus, DTC parsing is sti
 * This article annotates sentences as the elementary discourse topic unit, but we found in real data that some sentences contain multiple topics. Of course, we also lack a theoretical basis to label each EDU as an elementary DTU. Therefore, how to segment the text into topical units still needs further research.
 * The prototype of the topic chain we labeled is relatively simple, which is a 1-to-1 topic chain model. However, there are many n-to-n situations in the actual text, which requires a lot of manpower and energy to improve our annotation.
 
-**We are eager to improve the quality of topic chain labeling and will continue to work hard in the follow-up research. We also invite people with the same goals to participate in the discussion of the research, and cooperate to build an open source data labeling environment and a larger scale DTC data set.**
-
-If you have any questions or suggestions, please send an email to zzlynx@outlook.com (Zhang Longyin).
-
+**We are eager to improve the quality of topic chain labeling and will continue to work hard in the follow-up research. We also invite people with the same goals to participate in the discussion of the research, and cooperate to build an open source data labeling environment and a larger scale DTC data set. Any questions or suggestions, please send an email to zzlynx@outlook.com (Zhang Longyin).**
 
 #### DTC Corpus
 We annotated the data in a traditional way: reading the paper WSJ news and manually labeling it on the news paper.
