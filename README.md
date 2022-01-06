@@ -5,12 +5,12 @@ All the data and codes are coming soon, EoE.
 In this project, we publish a new corpus with discourse-level topic chains annotated on the 385 WSJ news articles
 in RST-DT. For details, please refer to our paper: "Longyin Zhang, Xin Tan, Fang Kong and Guodong Zhou. **EDTC: A Corpus for Discourse-Level Topic Chain Parsing**. EMNLP2021-Findings."
 
-**Our latest research found that due to the size of the corpus, DTC parsing is still very challenging. We also tried to apply the system pre-trained on EDTC to downstream NLP tasks, but the results were not ideal. As a preliminary exploration of DTC parsing, this research still has many imperfections, which are worthy of in-depth study by NLP researchers. For example: **
+**Our latest research found that due to the size of the corpus, DTC parsing is still very challenging. We also tried to apply the system pre-trained on EDTC to downstream NLP tasks, but the results were not ideal. As a preliminary exploration of DTC parsing, this research still has many imperfections, which are worthy of in-depth study by NLP researchers. For example:**
 
 * **This article annotates sentences as the elementary discourse topic unit, but we found in real data that some sentences contain multiple topics. Of course, we also lack a theoretical basis to label each EDU as an elementary DTU. Therefore, how to segment the text into topical units still needs further research.** 
-* **The prototype of the topic chain we labeled is relatively simple, which is a 1-to-1 topic chain model. However, there are many n-to-n situations in the actual text, which requires a lot of manpower and energy to improve our annotation. **
+* **The prototype of the topic chain we labeled is relatively simple, which is a 1-to-1 topic chain model. However, there are many n-to-n situations in the actual text, which requires a lot of manpower and energy to improve our annotation.**
 
-** We are eager to improve the quality of topic chain labeling and will continue to work hard in the follow-up research. We also invite people with the same goals to participate in the discussion of the research, and cooperate to build an open source data labeling environment and a larger scale DTC data set. **
+**We are eager to improve the quality of topic chain labeling and will continue to work hard in the follow-up research. We also invite people with the same goals to participate in the discussion of the research, and cooperate to build an open source data labeling environment and a larger scale DTC data set.**
 
 If you have any questions or suggestions, please send an email to zzlynx@outlook.com (Zhang Longyin).
 
