@@ -1,7 +1,5 @@
 ## Introduction
 
-All the data and codes are coming soon, EoE.
-
 In this project, we publish a new corpus with discourse-level topic chains annotated on the 385 WSJ news articles
 in RST-DT. For details, please refer to our paper: "Longyin Zhang, Xin Tan, Fang Kong and Guodong Zhou. **EDTC: A Corpus for Discourse-Level Topic Chain Parsing**. EMNLP2021-Findings."
 
