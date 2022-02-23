@@ -11,7 +11,7 @@ Our latest research found that due to the size of the corpus, DTC parsing is sti
 **We are eager to improve the quality of topic chain labeling and will continue to work hard in the follow-up research. We also invite people with the same goals to participate in the discussion of the research, and cooperate to build an open source data labeling environment and a larger scale DTC data set. Any questions or suggestions, please send an email to zzlynx@outlook.com (Zhang Longyin).**
 
 #### DTC Corpus
-We annotated the data in a traditional way: reading the paper WSJ news and manually labeling it on the news paper.
+We annotated the data in a traditional way: reading the paper WSJ news and manually labeling topic chains on the news paper.
 
 ![image](https://github.com/NLP-Discourse-SoochowU/DTCP/blob/main/data/corpus/papers.jpg)
 
