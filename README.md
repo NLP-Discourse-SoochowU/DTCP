@@ -15,7 +15,7 @@ We annotated the data in a traditional way: reading the paper WSJ news and manua
 
 ![image](https://github.com/NLP-Discourse-SoochowU/DTCP/blob/main/data/corpus/papers.jpg)
 
-In this published corpus, we only present the annotation of DTC chains, and we will provide a more informative version in the future.
+We will provide a more informative version (EDTC2) in the future.
 
 #### DTC Parser
 
