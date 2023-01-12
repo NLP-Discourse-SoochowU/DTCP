@@ -17,6 +17,8 @@ We annotated the data in a traditional way: reading the paper WSJ news and manua
 
 Recently, our team members re-discussed the work and we planned to improve the quality of the data. Based on the paper, we re-checked the annotations and updated the test set as "test_v2_Jan-12-2023.tsv". Although the change is tiny, it's necessary. Besides, we will also re-check the annotations in the dev and train set to provide a better version (EDTC2) in the future. (Jan 12 2023)
 
+We are very grateful for the valuable suggestions recently put forward by scientific researchers, and look forward to your more inspiration.
+
 #### DTC Parser
 
 1. We provide our newest parser in "upd_parser" where we present the codes and the pre-trained DTC parsing model for downstream applications.
