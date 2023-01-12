@@ -15,7 +15,7 @@ We annotated the data in a traditional way: reading the paper WSJ news and manua
 
 ![image](https://github.com/NLP-Discourse-SoochowU/DTCP/blob/main/data/corpus/papers.jpg)
 
-We will provide a more informative version (EDTC2) in the future.
+Recently, our team members re-discussed the work and we planned to improve the quality of the data. Based on the paper, we re-checked the annotations and updated the test set as "test_v2_Jan-12-2023.tsv". Although the change is tiny, it's necessary. Besides, we will also re-check the annotations in the dev and train set to provide a better version (EDTC2) in the future. (Jan 12 2023)
 
 #### DTC Parser
 
